@@ -13,9 +13,9 @@ public class HomeWork {
         };
 
         Trap[] traps = {
-                new Track(1200),
+                new Track(1350),
                 new Wall(30),
-                new Track(2000),
+                new Track(2500),
                 new Wall(140),
                 new Track(3000),
                 new Wall( 250)
